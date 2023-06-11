@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(34, 103, 127);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+
+  .group {
+    background-color: #e7f3f5;
+    border: 1px solid black; 
+    border-radius: 15px; 
+    width: 500px;
+    padding: 20px;
+    box-sizing: border-box;
+    }
+
+  .form-input {
+    width: 89%;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 3px;
+    border: 1px solid #000000;
+  }
+  
+  .form-btn {
+    background-color: rgb(11, 133, 139);
+    color: rgb(0, 0, 0);
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    font-weight: bold;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  
